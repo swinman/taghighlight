@@ -52,7 +52,6 @@ Copyright:  (c) 2009-2015 by A. S. Budden             *TagHighlight-copyright*
 	5.    Contributing Changes               |TagHighlight-contributions|
 	5.1   Suggestions for Improvements       |TagHighlight-suggestions|
 	5.2   Patches                            |TagHighlight-patches|
-	5.3   Usage Examples                     |TagHighlight-usage-examples|
 
 	6.    Troubleshooting                    |TagHighlight-troubleshooting|
 
@@ -124,9 +123,9 @@ Copyright:  (c) 2009-2015 by A. S. Budden             *TagHighlight-copyright*
 	The plugin is distribute as source code (binaries of the python components
 	are also available for computers that do not have python installed) The
 	source code is managed using the Mercurial version control system and is
-	available on bitbucket at:
+	available on heptapod at:
 >
-		https://bitbucket.org/abudden/taghighlight
+		https://heptapod.host/cgtk/taghighlight
 <
 ------------------------------------------------------------------------------
 
@@ -357,9 +356,7 @@ Copyright:  (c) 2009-2015 by A. S. Budden             *TagHighlight-copyright*
 		This section contains a few examples of configurations that may be
 		useful.  It is hoped that most users will be able to use TagHighlight
 		without setting any options at all, but these give some examples of
-		some more complex scenarios.  These examples are also all on the wiki:
->
-			https://bitbucket.org/abudden/taghighlight/wiki/Home
+		some more complex scenarios.
 <
 		If you have any additional examples (e.g. how to use with different
 		variants of ctags, specific libraries or other custom configurations),
@@ -2222,12 +2219,12 @@ Copyright:  (c) 2009-2015 by A. S. Budden             *TagHighlight-copyright*
 	7.  Test your new language!
 
 	8.  Send me a copy for inclusion in the main distribution.  If you're
-		sending it to me as a bitbucket pull request, it would help enormously
+		sending it to me as a heptapod pull request, it would help enormously
 		if you could also also:
 
 		* Update the list of languages (|TagHighlight-languages|) in this
 		  file.
-		* Update the list of languages in README.md (shown on the bitbucket
+		* Update the list of languages in README.md (shown on the heptapod
 	   	  front page).
 	   	* Add a note in the latest entry in the change log in this file
 	      (|TagHighlight-history|).  If there isn't an entry there for an
@@ -2280,10 +2277,10 @@ Copyright:  (c) 2009-2015 by A. S. Budden             *TagHighlight-copyright*
 	If you've made an improvement to TagHighlight and would like your changes
 	to be included in the main distribution, there are a number of ways of
 	doing this.  The code is maintained in a Mercurial repository and
-	published on bitbucket.  In rough order of preference, the ways you can
+	published on heptapod.  In rough order of preference, the ways you can
 	send me a patch are:
 
-		1. Bitbucket pull request (https://bitbucket.org/abudden/taghighlight)
+		1. Heptapod pull request (https://heptapod.host/cgtk/taghighlight)
 
 		2. Mercurial bundle (see "hg help bundle") attached to an email.
 
@@ -2312,14 +2309,6 @@ Copyright:  (c) 2009-2015 by A. S. Budden             *TagHighlight-copyright*
 		- Any options that have been added: add these both to the categorised
 		  |TagHighlight-option-list| and the alphabetic (and more detailed)
 		  |TagHighlight-option-summary|.
-
-5.3 Usage Examples                       *TagHighlight-usage-examples*      {{{2
-
-	There is a wiki available at:
->
-		https://bitbucket.org/abudden/taghighlight/wiki/Home
-<
-	Please feel free to add usage examples to this page.
 
 ==============================================================================
 6. Troubleshooting                       *TagHighlight-troubleshooting*     {{{1
