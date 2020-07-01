@@ -2376,7 +2376,7 @@ Copyright:  (c) 2009-2015 by A. S. Budden             *TagHighlight-copyright*
 ==============================================================================
 8. TagHighlight History                *TagHighlight-history*               {{{1
 
-x.x.x: xxth Xxxxxxxx 2015  : Major new release with the following changes:
+2.2.0: 1st July 2020       : Major new release with the following changes:
 
 	New features:
 	
@@ -2452,6 +2452,8 @@ x.x.x: xxth Xxxxxxxx 2015  : Major new release with the following changes:
 	* Added information on how I use TagHighlight to the documentation.
 	* Added documentation on how to use TagHighlight with Mercurial (and added
 	  the "all" option for the language overrides to make this work better).
+	* Migrated from bitbucket to heptapod as bitbucket no longer supports
+	  Mercurial.
 
 2.1.5: 20th February 2012  : Added support for Scala (thanks to Lee Gauthier).
 
